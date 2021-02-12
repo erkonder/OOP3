@@ -20,6 +20,8 @@ namespace ConsoleApp1
 
             //Console.WriteLine(sayilar1[0]);
 
+            //
+
         }
     }
 }
