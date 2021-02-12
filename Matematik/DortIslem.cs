@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Matematik
+{
+    class DortIslem
+    {
+        public int Topla(int sayi1 , int sayi2)
+        {
+            return sayi1 + sayi2;
+        }
+
+
+    }
+}
