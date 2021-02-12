@@ -18,7 +18,7 @@ namespace ConsoleApp1
             sayilar1 = sayilar2;
             sayilar2[0] = 1;
 
-            Console.WriteLine(sayilar1[0]);
+            //Console.WriteLine(sayilar1[0]);
 
         }
     }
